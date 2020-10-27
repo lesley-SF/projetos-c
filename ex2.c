@@ -7,8 +7,8 @@ Utilizando laços, o seu programa deve calcular e imprimir o valor a^b.
 .
 */
 
-int main()
-{
+int main(){
+	
     int resultado = 0;
 
     resultado = calculo_potencia (50,3);
@@ -27,6 +27,5 @@ int calculo_potencia (int base,int expoente){
         multiplicacao = base * multiplicacao;
     }
     return multiplicacao;
-
 
 }

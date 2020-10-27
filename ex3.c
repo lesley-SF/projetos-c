@@ -12,8 +12,7 @@ OBS: Não use formúlas como a da soma de uma P.A.
 
 */
 
-int main()
-{
+int main(){
 
 
     int n, somatoria = 0;
@@ -28,5 +27,6 @@ int main()
     }
     printf("%i \n", somatoria);
     return 0;
+
 }
 
