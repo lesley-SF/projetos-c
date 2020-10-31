@@ -10,8 +10,8 @@ a quinta opção.
 
 int main()
 {
-    setlocale(LC_ALL, "");
-	int opcao = 0;
+setlocale(LC_ALL, "");
+int opcao = 0;
 
 do{
 // Mostra o cardápio ao usuário.
